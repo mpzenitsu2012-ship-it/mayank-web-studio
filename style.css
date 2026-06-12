@@ -354,3 +354,19 @@ nav{
     height:280px;
 }
 }
+.reviews{
+    text-align:center;
+}
+
+.review-card{
+    max-width:700px;
+    margin:auto;
+    padding:30px;
+    background:rgba(255,255,255,.05);
+    border-radius:20px;
+}
+
+.stars{
+    font-size:30px;
+    margin-bottom:15px;
+}
